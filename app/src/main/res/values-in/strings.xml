@@ -1,0 +1,5 @@
+<resources>
+    <string name="nameEditText">Nama :</string>
+    <string name="sayhelloButton">Ucapkan Halo </string>
+    <string name="sayHelloTextView">Hello %1$s</string>
+</resources>

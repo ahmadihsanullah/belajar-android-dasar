@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Skor Basket</string>
+    <string name="title">Tulis Nama Tim Kamu</string>
+    <string name="tima">Tim A</string>
+    <string name="timb">Tim B</string>
+
+    <string name="pemisah">--------</string>
+    <string name="skor">0</string>
+
+    <string name="poin3">+3 Point</string>
+    <string name="poin2">+2 Point</string>
+    <string name="freePoint">+FREE THROWS</string>
+
+    <string name="nameEditText">Name :</string>
+    <string name="sayhelloButton">Say Hello </string>
+    <string name="sayHelloTextView">Hello %1$s</string>
+    <string-array name="names">
+        <item>Ahmad</item>
+        <item>Ihsanullah</item>
+        <item>Rabbani</item>
+    </string-array>
+
+</resources>
