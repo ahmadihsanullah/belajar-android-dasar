@@ -1,5 +1,6 @@
 package pzn.androiddasar
 
+import org.junit.Assert
 import org.junit.Test
 
 import org.junit.Assert.*
@@ -13,5 +14,11 @@ class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
+    }
+    @Test
+    fun helloTest(){
+        val name = SayHello.hello("eko")
+
+        Assert.assertEquals("Hello eko", name)
     }
 }
